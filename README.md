@@ -6,9 +6,9 @@
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
-**Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbour, the algorithm is used to classify points according to class of their K nearest neighbour points .
+**Project Objective:**  In this project, the data provided multiple instances of orthopedic parameters and their classification as either Normal or Abnormal. I implemented K Nearest Neighbor to classify and diagnose the patients.
 
-**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of 82% .
+**Quantifiable result:** Successfully classified the orthopedic parameters as either Normal or Abnormal with an accuracy of 82%.
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
 - Compared predictive performance by fitting a Naive Bayes model to the data
