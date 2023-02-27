@@ -1,6 +1,6 @@
-# [Orthopedic-Patients-Classification-KNN-NB](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/ortho_project.ipynb)
+# [Orthopedic-Patients-Classification-KNN-NB](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/Ortho_Patients_Classification.ipynb)
 
-[![knee-brace-ortho](https://user-images.githubusercontent.com/105948938/210697291-f37f4d78-f7f5-48e8-b7fd-4375a9254df3.png)](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/ortho_project.ipynb)
+[![knee-brace-ortho](https://user-images.githubusercontent.com/105948938/210697291-f37f4d78-f7f5-48e8-b7fd-4375a9254df3.png)](https://github.com/mkgreen/Orthopedic-Patients-Classification-KNN-NB/blob/main/Ortho_Patients_Classification.ipynb)
 
 ### Identifying symptoms of orthopedic patients as normal or abnormal
 
