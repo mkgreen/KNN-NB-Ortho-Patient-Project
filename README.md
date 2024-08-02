@@ -4,7 +4,7 @@
 
 ### Identifying symptoms of orthopedic patients as normal or abnormal
 
-**Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
+**Skills used:** Python, Pandas, SKlearn, Matplotlib, KNN, NB
 
 **Project Objective:**  In this project, the data provided multiple instances of orthopedic parameters and their classification as either Normal or Abnormal. I implemented K Nearest Neighbor to classify and diagnose the patients.
 
